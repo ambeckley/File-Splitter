@@ -2,7 +2,7 @@
 A simple program for splitting large files then merging them
 
 
-Usage split
+Usage Split
 
 ```
 python split.py -s -m -b 1gb someLargeFile
