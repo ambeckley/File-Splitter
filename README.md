@@ -12,6 +12,6 @@ python split.py -s -m -b 1gb someLargeFile
 Usage Join
 
 ```
-python split.py -j someLargeFile.001
+python split.py -j -m someLargeFile.001
 
 ```
